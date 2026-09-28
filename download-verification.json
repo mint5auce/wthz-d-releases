@@ -1,0 +1,12 @@
+{
+  "repository": "mint5auce/wthz-d-releases",
+  "tag": "v0.1.0-alpha.1",
+  "anonymousDownloads": true,
+  "files": {
+    "WTHz-D-0.1.0-alpha.1-Corresponding-Source.tar.gz": "d221fe79918eccc8c37fbf554eaddb6a55850b40ace60e095e2429eb7948815c",
+    "WTHz-D-0.1.0-alpha.1-macos-arm64.dmg": "a07395b182751f1e4df034ab41f04352a48ef2b88671d2a4b51c3b120fb21bf7",
+    "release-manifest.json": "b6236c9cf14b90b635d17077e141d619b9e543174eb1511deabe043897fce525",
+    "release-notes.md": "079d91bc027d52500929bb9401350c2cd96ced70e6d909832c197de17240b27f",
+    "SHA256SUMS": "5041706dce0b3e9a165005450da1216e5ebc5449ad523022e0b68dd7b6f18e34"
+  }
+}

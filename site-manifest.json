@@ -1,0 +1,10 @@
+{
+  "releaseManifestSHA256": "b6236c9cf14b90b635d17077e141d619b9e543174eb1511deabe043897fce525",
+  "downloadRepository": "mint5auce/wthz-d-releases",
+  "feedURL": "https://mint5auce.github.io/wthz-d/updates/appcast.xml",
+  "effectiveFeedURL": "https://jon-hadley.com/wthz-d/updates/appcast.xml",
+  "files": {
+    "WTHz-D-0.1.0-alpha.1-macos-arm64.md": "97cdda1dad5426eef9ee2aef609fbf9da725ecc0a4540b26c7a5122ec84ee586",
+    "appcast.xml": "2f5d2860cdebae99b0405e487f539231568cc2b34ba88d41b5179eefb7de3fad"
+  }
+}

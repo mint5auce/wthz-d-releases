@@ -1,0 +1,16 @@
+{
+  "files": {
+    "WTHz-D-0.1.0-alpha.1-macos-arm64.md": {
+      "sha256": "97cdda1dad5426eef9ee2aef609fbf9da725ecc0a4540b26c7a5122ec84ee586",
+      "response": "200\nhttps://jon-hadley.com/wthz-d/updates/WTHz-D-0.1.0-alpha.1-macos-arm64.md"
+    },
+    "appcast.xml": {
+      "sha256": "2f5d2860cdebae99b0405e487f539231568cc2b34ba88d41b5179eefb7de3fad",
+      "response": "200\nhttps://jon-hadley.com/wthz-d/updates/appcast.xml"
+    }
+  },
+  "feedSignature": true,
+  "archiveSignature": true,
+  "notesSignature": true,
+  "feedConfiguration": true
+}
