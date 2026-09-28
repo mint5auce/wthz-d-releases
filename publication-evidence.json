@@ -1,0 +1,45 @@
+{
+  "releaseManifestSHA256": "b6236c9cf14b90b635d17077e141d619b9e543174eb1511deabe043897fce525",
+  "sourceCommit": "8d0024b1695b68f4e468993f6f6bdf73e7e07707",
+  "scope": "very limited early alpha, receive-only",
+  "licenceReview": {
+    "status": "passed",
+    "reviewer": "Codex technical review at owner direction",
+    "record": "PUBLICATION.md#licence-and-source-review"
+  },
+  "criticalValidation": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "PUBLICATION.md#completed-checks"
+  },
+  "packagedDecoder": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "PUBLICATION.md#completed-checks"
+  },
+  "publicationApproval": {
+    "status": "approved",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#owner-decisions"
+  },
+  "signingKeyBackup": {
+    "status": "ownerConfirmed",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#completed-checks"
+  },
+  "cleanInstall": {
+    "status": "ownerAcceptedRisk",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#owner-decisions"
+  },
+  "physicalUSB": {
+    "status": "ownerAcceptedRisk",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#owner-decisions"
+  },
+  "independentInstall": {
+    "status": "ownerAcceptedRisk",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#owner-decisions"
+  }
+}
