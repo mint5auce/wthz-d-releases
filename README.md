@@ -1,6 +1,6 @@
 # WTHz-D alpha releases
 
-FT8 decoding, maps, propagation, spectrum. In one native Mac workspace.
+Digital in one place. FT8 decoding, maps, propagation, spectrum. In one native Mac workspace.
 
 Public downloads and corresponding source for the receive-only WTHz-D early alpha.
 The development repository remains private.
