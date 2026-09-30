@@ -1,0 +1,8 @@
+{
+  "downloadedDMGStapledTicket": "passed",
+  "downloadedDMGGatekeeper": "Notarized Developer ID",
+  "mountedAppInventory": "passed",
+  "mountedAppDeepStrictSignature": "passed",
+  "mountedAppStapledTicket": "passed",
+  "installationPerformed": false
+}

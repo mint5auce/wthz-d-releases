@@ -1,0 +1,28 @@
+{
+  "siteCommit": "4b721cf48aa473bd00a2bf90ac24391e795c4ee7",
+  "files": [
+    {
+      "file": "WTHz-D-0.1.0-alpha.2-macos-arm64.md",
+      "requestedURL": "https://mint5auce.github.io/wthz-d/updates/WTHz-D-0.1.0-alpha.2-macos-arm64.md",
+      "resolvedURL": "https://jon-hadley.com/wthz-d/updates/WTHz-D-0.1.0-alpha.2-macos-arm64.md",
+      "HTTPStatus": 200,
+      "sha256": "54611126dcaad9d5e7c8bef17062d7df8276c3e8ae7ec4d7d81bb20d34fdc596"
+    },
+    {
+      "file": "appcast.xml",
+      "requestedURL": "https://mint5auce.github.io/wthz-d/updates/appcast.xml",
+      "resolvedURL": "https://jon-hadley.com/wthz-d/updates/appcast.xml",
+      "HTTPStatus": 200,
+      "sha256": "1967cd55ff02c8c938670f636210e2168796f2a6ae9c682ab29e324230d590bf"
+    }
+  ],
+  "feedSignatureVerified": true,
+  "notesSignatureVerified": true,
+  "downloadedDMGSignatureVerified": true,
+  "builds": [
+    "3",
+    "2"
+  ],
+  "build2EligibleForBuild3": true,
+  "manualClientUpdatePerformed": false
+}

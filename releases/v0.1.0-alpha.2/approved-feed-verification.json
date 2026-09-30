@@ -1,0 +1,15 @@
+{
+  "releaseManifestSHA256": "11b050835d0fa2984bae37285303cbe9dfeb9c055bd02e813d75c2cd6c8904e2",
+  "builds": [
+    "3",
+    "2"
+  ],
+  "previousBuildPreserved": true,
+  "build2ReceivesBuild3": true,
+  "archiveAndNotesSignaturesVerified": true,
+  "hostedNotesCorrectedAfterFinalValidation": true,
+  "siteFiles": {
+    "WTHz-D-0.1.0-alpha.2-macos-arm64.md": "54611126dcaad9d5e7c8bef17062d7df8276c3e8ae7ec4d7d81bb20d34fdc596",
+    "appcast.xml": "1967cd55ff02c8c938670f636210e2168796f2a6ae9c682ab29e324230d590bf"
+  }
+}

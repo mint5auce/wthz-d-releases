@@ -36,6 +36,7 @@ No assertion, safety, decoder, signature or source check is weakened.
 A new exact-artifact physical USB session, independent install, full manual pointer/VoiceOver matrix and sustained visible FPS are not performed.
 The user's running receive session and installed application remain untouched.
 This remains a limited receive-only alpha without a compatibility or phase-advancement claim.
-Client update availability follows publication, anonymous asset verification and signed-feed deployment.
+The release is published and client updates are available through the verified signed feed.
+The [verification record](VERIFICATION.md) retains anonymous downloads, mounted-app checks, Pages deployment, hosted hashes and signatures.
 The frozen downloadable release-notes asset describes the preceding SwiftPM pass/Xcode-only failure; final release-candidate validation fails the same test in both runners.
 The GitHub release body and separately signed hosted update notes correct that wording, preserving the immutable downloadable artifacts and their manifest.

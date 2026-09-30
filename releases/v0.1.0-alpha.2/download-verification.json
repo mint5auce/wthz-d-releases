@@ -1,0 +1,48 @@
+{
+  "tag": "v0.1.0-alpha.2",
+  "build": "3",
+  "releaseManifestSHA256": "11b050835d0fa2984bae37285303cbe9dfeb9c055bd02e813d75c2cd6c8904e2",
+  "allAssetsVerified": true,
+  "assets": [
+    {
+      "name": "WTHz-D-0.1.0-alpha.2-macos-arm64.dmg",
+      "url": "https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.2/WTHz-D-0.1.0-alpha.2-macos-arm64.dmg",
+      "sha256": "6e2ec6211d3b719712a5086ef0636c5c1e8fdc4749a5dd0a0ee63feb0ae583a8",
+      "bytes": 22039254,
+      "anonymous": true,
+      "matchesFrozenArtifact": true
+    },
+    {
+      "name": "WTHz-D-0.1.0-alpha.2-Corresponding-Source.tar.gz",
+      "url": "https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.2/WTHz-D-0.1.0-alpha.2-Corresponding-Source.tar.gz",
+      "sha256": "3f7947e05c0ca51677c391523637376173ad0c51c3c3b1881ef750c640e51168",
+      "bytes": 922443279,
+      "anonymous": true,
+      "matchesFrozenArtifact": true
+    },
+    {
+      "name": "release-manifest.json",
+      "url": "https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.2/release-manifest.json",
+      "sha256": "11b050835d0fa2984bae37285303cbe9dfeb9c055bd02e813d75c2cd6c8904e2",
+      "bytes": 485051,
+      "anonymous": true,
+      "matchesFrozenArtifact": true
+    },
+    {
+      "name": "SHA256SUMS",
+      "url": "https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.2/SHA256SUMS",
+      "sha256": "73885412f70b98c88011d61fd183496247db1db87cdebc7da1f671f781a90131",
+      "bytes": 389,
+      "anonymous": true,
+      "matchesFrozenArtifact": true
+    },
+    {
+      "name": "release-notes.md",
+      "url": "https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.2/release-notes.md",
+      "sha256": "b406f03e98282adfc20b5df4089714604c6f81a67ec1fef710c569d7d6f5c613",
+      "bytes": 3915,
+      "anonymous": true,
+      "matchesFrozenArtifact": true
+    }
+  ]
+}
