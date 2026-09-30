@@ -12,7 +12,12 @@
     "reviewer": "Codex",
     "record": "PUBLICATION.md#validation",
     "failedTest": "LogbookPresentationTests.testNativeMatrixAndTableIdentityAcrossDetach",
-    "assertions": 16
+    "assertions": 16,
+    "riskDisposition": {
+      "status": "ownerAcceptedRisk",
+      "reviewer": "Jonathan Hadley",
+      "record": "PUBLICATION.md#authority"
+    }
   },
   "packagedDecoder": {
     "status": "passed",
@@ -20,20 +25,26 @@
     "record": "PUBLICATION.md#source-and-artifact-checks"
   },
   "publicationApproval": {
-    "status": "ownerDirectedWithDisclosedLimitations",
+    "status": "passed",
     "reviewer": "Jonathan Hadley",
     "record": "PUBLICATION.md#authority"
   },
   "cleanInstall": {
-    "status": "notPerformed",
-    "record": "PUBLICATION.md#remaining-limitations"
+    "status": "ownerAcceptedRisk",
+    "record": "PUBLICATION.md#authority",
+    "testResult": "notPerformed",
+    "reviewer": "Jonathan Hadley"
   },
   "physicalUSB": {
-    "status": "notPerformed",
-    "record": "PUBLICATION.md#remaining-limitations"
+    "status": "ownerAcceptedRisk",
+    "record": "PUBLICATION.md#authority",
+    "testResult": "notPerformed",
+    "reviewer": "Jonathan Hadley"
   },
   "independentInstall": {
-    "status": "notPerformed",
-    "record": "PUBLICATION.md#remaining-limitations"
+    "status": "ownerAcceptedRisk",
+    "record": "PUBLICATION.md#authority",
+    "testResult": "notPerformed",
+    "reviewer": "Jonathan Hadley"
   }
 }
