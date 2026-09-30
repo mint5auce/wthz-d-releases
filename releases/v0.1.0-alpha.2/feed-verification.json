@@ -1,0 +1,13 @@
+{
+  "builds": [
+    "3",
+    "2"
+  ],
+  "previousBuildPreserved": true,
+  "build2ReceivesBuild3": true,
+  "archiveAndNotesSignaturesVerified": true,
+  "siteFiles": {
+    "WTHz-D-0.1.0-alpha.2-macos-arm64.md": "0879c3c68c5027551e381f23a23a43eed25d140806c09c184392e0c538b4b3ff",
+    "appcast.xml": "dad4cfca27eed7244765af2e528c62778dfe512124b4da6ad89b0301257e6665"
+  }
+}

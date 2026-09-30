@@ -1,0 +1,39 @@
+{
+  "releaseManifestSHA256": "11b050835d0fa2984bae37285303cbe9dfeb9c055bd02e813d75c2cd6c8904e2",
+  "sourceCommit": "5f27b564e4c669a7d62f3f38779b18f593192f18",
+  "scope": "very limited early alpha, receive-only",
+  "licenceReview": {
+    "status": "passed",
+    "reviewer": "Codex technical artifact review",
+    "record": "PUBLICATION.md#source-and-artifact-checks"
+  },
+  "criticalValidation": {
+    "status": "failedPreexisting",
+    "reviewer": "Codex",
+    "record": "PUBLICATION.md#validation",
+    "failedTest": "LogbookPresentationTests.testNativeMatrixAndTableIdentityAcrossDetach",
+    "assertions": 16
+  },
+  "packagedDecoder": {
+    "status": "passed",
+    "reviewer": "Codex",
+    "record": "PUBLICATION.md#source-and-artifact-checks"
+  },
+  "publicationApproval": {
+    "status": "ownerDirectedWithDisclosedLimitations",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#authority"
+  },
+  "cleanInstall": {
+    "status": "notPerformed",
+    "record": "PUBLICATION.md#remaining-limitations"
+  },
+  "physicalUSB": {
+    "status": "notPerformed",
+    "record": "PUBLICATION.md#remaining-limitations"
+  },
+  "independentInstall": {
+    "status": "notPerformed",
+    "record": "PUBLICATION.md#remaining-limitations"
+  }
+}

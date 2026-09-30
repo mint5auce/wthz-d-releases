@@ -1,0 +1,8 @@
+{
+  "sourceCommit": "5f27b564e4c669a7d62f3f38779b18f593192f18",
+  "licenceFilesUnchangedFromReviewedAlpha1": 1768,
+  "arm64CodeAuditEntries": 16,
+  "build": "3",
+  "updateIdentityUnchanged": true,
+  "sourceKitSHA256": "3f7947e05c0ca51677c391523637376173ad0c51c3c3b1881ef750c640e51168"
+}
