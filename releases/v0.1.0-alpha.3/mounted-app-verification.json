@@ -1,0 +1,11 @@
+{
+  "dmgSHA256": "edab841c3099ae2ac7369d408e70d9e650b4ce1fb9974b2ee5746a9caa9c887f",
+  "gatekeeper": "passed",
+  "independentInstall": "notPerformed",
+  "installationTest": "notPerformed",
+  "mountedAppInventory": "passed",
+  "nestedSignatures": "passed",
+  "physicalUSB": "notPerformed",
+  "releaseManifestSHA256": "49dbf7d57e76b5ad215fcd1987140aebb81e4e371d0da1de6ff2e40e770e964f",
+  "stapledAppAndDMGTickets": "passed"
+}

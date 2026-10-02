@@ -1,0 +1,43 @@
+{
+  "releaseManifestSHA256": "49dbf7d57e76b5ad215fcd1987140aebb81e4e371d0da1de6ff2e40e770e964f",
+  "sourceCommit": "a636d4b109974b51f426b5e7dcac0df53e421dc1",
+  "scope": "very limited early alpha, receive-only",
+  "licenceReview": {
+    "status": "passed",
+    "reviewer": "Codex technical artifact review",
+    "record": "docs/evidence/sparkle-alpha3-publication-2026-10-02.md"
+  },
+  "criticalValidation": {
+    "status": "passed",
+    "reviewer": "Codex technical artifact review",
+    "record": "docs/evidence/sparkle-alpha3-publication-2026-10-02.md"
+  },
+  "packagedDecoder": {
+    "status": "passed",
+    "reviewer": "Codex technical artifact review",
+    "record": "docs/evidence/sparkle-alpha3-publication-2026-10-02.md"
+  },
+  "cleanInstall": {
+    "status": "ownerAcceptedRisk",
+    "testResult": "notPerformed",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#owner-disposition"
+  },
+  "physicalUSB": {
+    "status": "ownerAcceptedRisk",
+    "testResult": "notPerformed",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#owner-disposition"
+  },
+  "independentInstall": {
+    "status": "ownerAcceptedRisk",
+    "testResult": "notPerformed",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#owner-disposition"
+  },
+  "publicationApproval": {
+    "status": "passed",
+    "reviewer": "Jonathan Hadley",
+    "record": "PUBLICATION.md#owner-disposition"
+  }
+}

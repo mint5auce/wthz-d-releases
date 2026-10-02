@@ -1,0 +1,9 @@
+{
+  "preservedBuilds": [
+    "3",
+    "2"
+  ],
+  "newBuild": "4",
+  "channel": "alpha",
+  "previousEntriesByteEquivalentAsXML": true
+}

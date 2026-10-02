@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "admittedIntervals": 16,
+  "assembledIntervals": 16,
+  "successfulIntervals": 16,
+  "failedIntervals": 0,
+  "sourceDroppedFrames": 0,
+  "busyIntervalDrops": 0,
+  "assemblerInvalidations": 0,
+  "functionalRepetitionsIdentical": true,
+  "temporaryFilesRemoved": true
+}
