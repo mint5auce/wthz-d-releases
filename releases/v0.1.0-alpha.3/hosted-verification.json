@@ -1,0 +1,30 @@
+{
+  "releaseManifestSHA256": "49dbf7d57e76b5ad215fcd1987140aebb81e4e371d0da1de6ff2e40e770e964f",
+  "files": [
+    {
+      "name": "appcast.xml",
+      "url": "https://mint5auce.github.io/wthz-d/updates/appcast.xml",
+      "finalURL": "https://jon-hadley.com/wthz-d/updates/appcast.xml",
+      "status": 200,
+      "sha256": "13ee0bd66a5063e8c33d21588274031289d5b3218425ad7dcd7f68de2fbf8b5b",
+      "exactBytes": "passed",
+      "ed25519Signature": "passed"
+    },
+    {
+      "name": "WTHz-D-0.1.0-alpha.3-macos-arm64.md",
+      "url": "https://mint5auce.github.io/wthz-d/updates/WTHz-D-0.1.0-alpha.3-macos-arm64.md",
+      "finalURL": "https://jon-hadley.com/wthz-d/updates/WTHz-D-0.1.0-alpha.3-macos-arm64.md",
+      "status": 200,
+      "sha256": "1685b6e356502b1030ecef5763bc5924b8549a2c7065af6bffe8d30bc9930103",
+      "exactBytes": "passed",
+      "ed25519Signature": "passed"
+    }
+  ],
+  "publishedBuilds": [
+    "4",
+    "3",
+    "2"
+  ],
+  "build3To4Eligible": true,
+  "actualClientUpdateInstallation": "notPerformed"
+}

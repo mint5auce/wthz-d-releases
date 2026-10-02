@@ -5,7 +5,7 @@ Digital in one place. FT8 decoding, maps, propagation & spectrum analysis. In on
 Public downloads and corresponding source for the receive-only WTHz-D early alpha.
 The development repository remains private.
 
-Latest release: [Alpha 2 build 3](https://github.com/mint5auce/wthz-d-releases/releases/tag/v0.1.0-alpha.2), with [publication verification](releases/v0.1.0-alpha.2/VERIFICATION.md).
+Latest release: [Alpha 3 build 4](https://github.com/mint5auce/wthz-d-releases/releases/tag/v0.1.0-alpha.3), with [publication verification](releases/v0.1.0-alpha.3/VERIFICATION.md).
 
 Requires Apple Silicon and macOS 27.0 or later.
 Download the DMG from [Releases](https://github.com/mint5auce/wthz-d-releases/releases), drag WTHz-D into Applications and select Simulator to explore without a radio.

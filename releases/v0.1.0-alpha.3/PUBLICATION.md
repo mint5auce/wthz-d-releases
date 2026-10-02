@@ -11,7 +11,7 @@ The signed feed adds build 4 and preserves builds 3 and 2.
 Clean quarantined installation, physical USB reception, independent installation, full manual pointer/VoiceOver review and an actual client update installation remain unperformed.
 Publication preflight rejects the missing clean-install disposition.
 The owner now accepts the missing checks for this exact Alpha 3 manifest and approves publication.
-Publication and deployment verification are recorded separately once completed.
+The release and signed feed are published and verified in [the verification record](VERIFICATION.md).
 This remains a limited receive-only alpha with no new compatibility, physical or phase-advancement claim.
 
 ## Owner disposition
