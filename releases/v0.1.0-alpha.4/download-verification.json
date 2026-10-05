@@ -1,0 +1,40 @@
+{
+  "releaseManifestSHA256": "ada987b9ea2f9278a17cbb93c4ed99a4359a552987acf3a74d42f1bd3504e4a8",
+  "assets": [
+    {
+      "name": "release-manifest.json",
+      "sha256": "ada987b9ea2f9278a17cbb93c4ed99a4359a552987acf3a74d42f1bd3504e4a8",
+      "bytes": 485051,
+      "httpStatus": 200,
+      "anonymousDownload": true
+    },
+    {
+      "name": "release-notes.md",
+      "sha256": "b775d03bcf99654e50d4d96d8bf817bee1d47787939984d8f2333a49c4d7d9ab",
+      "bytes": 3332,
+      "httpStatus": 200,
+      "anonymousDownload": true
+    },
+    {
+      "name": "SHA256SUMS",
+      "sha256": "6edfbe36333f1587796f8eaf7ae7b69c666f8a10f62b62571a1ff49363020dc9",
+      "bytes": 389,
+      "httpStatus": 200,
+      "anonymousDownload": true
+    },
+    {
+      "name": "WTHz-D-0.1.0-alpha.4-Corresponding-Source.tar.gz",
+      "sha256": "bb1c90aafbf93e893ce013c0a7a44e0a76cd54c7947bec9eb211c643a463fa67",
+      "bytes": 922466519,
+      "httpStatus": 200,
+      "anonymousDownload": true
+    },
+    {
+      "name": "WTHz-D-0.1.0-alpha.4-macos-arm64.dmg",
+      "sha256": "9ca780e1d12d941794ac25c13f047af8f3d6e1c979400d6918a9856663eb4096",
+      "bytes": 22173633,
+      "httpStatus": 200,
+      "anonymousDownload": true
+    }
+  ]
+}

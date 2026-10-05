@@ -19,4 +19,5 @@ This accepts the missing checks for release manifest `ada987b9ea2f9278a17cbb93c4
 The preflight passed-only disposition requirement is superseded for this exact release.
 Checks remain unperformed with separate owner-accepted-risk dispositions.
 Source, archive, signature, notarisation, packaged-decoder and deployed-byte verification remain required.
+The release and signed feed are published and verified in [the verification record](VERIFICATION.md).
 This remains a limited receive-only alpha without physical, compatibility or phase-advancement claims.

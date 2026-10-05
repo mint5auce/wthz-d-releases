@@ -1,0 +1,36 @@
+{
+  "releaseManifestSHA256": "ada987b9ea2f9278a17cbb93c4ed99a4359a552987acf3a74d42f1bd3504e4a8",
+  "siteCommit": "d8f3dc46c08baf6bfeb420c41463962df6a2205f",
+  "files": [
+    {
+      "name": "WTHz-D-0.1.0-alpha.4-macos-arm64.md",
+      "sha256": "db74126446b05ff2d29300190acedba7e9c0569cf0cef75600aa0f0e3b0b517f",
+      "bytes": 3730,
+      "httpStatus": 200,
+      "effectiveURL": "https://jon-hadley.com/wthz-d/updates/WTHz-D-0.1.0-alpha.4-macos-arm64.md"
+    },
+    {
+      "name": "appcast.xml",
+      "sha256": "0d940f9701b90656279a392f960331f33ff9d2338d6f98a7c1366776949f629f",
+      "bytes": 3472,
+      "httpStatus": 200,
+      "effectiveURL": "https://jon-hadley.com/wthz-d/updates/appcast.xml"
+    }
+  ],
+  "feedEd25519Signature": "passed",
+  "notesEd25519Signature": "passed",
+  "feedBuilds": [
+    "5",
+    "4",
+    "3"
+  ],
+  "alphaChannel": true,
+  "minimumMacOS": "27.0",
+  "archiveURL": "https://github.com/mint5auce/wthz-d-releases/releases/download/v0.1.0-alpha.4/WTHz-D-0.1.0-alpha.4-macos-arm64.dmg",
+  "eligiblePreviousBuilds": [
+    "4",
+    "3",
+    "2"
+  ],
+  "actualClientUpdateInstallation": "notPerformed"
+}

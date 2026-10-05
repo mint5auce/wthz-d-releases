@@ -1,0 +1,12 @@
+{
+  "releaseManifestSHA256": "ada987b9ea2f9278a17cbb93c4ed99a4359a552987acf3a74d42f1bd3504e4a8",
+  "archiveEd25519Signature": "passed",
+  "downloadedDMGGatekeeper": "passed",
+  "downloadedDMGStapledTicket": "passed",
+  "mountedAppInventory": "passed",
+  "strictNestedSignature": "passed",
+  "stapledAppTicket": "passed",
+  "gatekeeperApp": "passed",
+  "cleanInstallation": "notPerformed",
+  "volumeDetached": true
+}
