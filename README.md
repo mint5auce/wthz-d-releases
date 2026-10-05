@@ -2,9 +2,8 @@
 
 Digital in one place. FT8 decoding, maps, propagation & spectrum analysis. In one native Mac workspace.
 
-**Development mock-up:** An illustrative workspace from the draft WTHz-D website, not a screenshot of the released app.
-
 ![Development mock-up of the WTHz-D workspace, showing a blue spectrum plot, decoded FT8 messages and a map](assets/workspace-development-mockup.webp)
+[*Development mock-up*]
 
 Public downloads and corresponding source for limited Alpha. Not a general compatibility or production-ready build.
 
